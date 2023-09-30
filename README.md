@@ -18,6 +18,8 @@ This repo is an extension of the phi_1.5_api but includes a chat application dem
 
 This project is a comprehensive solution that includes a chat application, an API, and a PostgreSQL database, all hosted in a Docker network. It allows users to interact with the chat application, generate text via the API, and stores questions and answers in a database. The user can then generate a csv of the stored database data.
 
+Make sure you have followed the proper setup instructions for the phi_1.5_api [repository](https://github.com/tdolan21/phi_1.5_api).
+
 ## Installation
 
 ```bash
